@@ -1,0 +1,15 @@
+.navi{
+    height: 71px;
+    box-shadow: 0px 1px 8px #888888;
+    display: flex;
+    align-items: center;
+    color: antiquewhite;
+    background-color: #888888;
+  }
+  
+  .menui{
+    flex: 0.48;
+    padding-left: 50px;
+    size: 50px;
+    
+  }
